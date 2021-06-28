@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Kotha Gos shami",
+    "email": "kotha@gmail.com",
+    "role": "user",
+    "password": "123456"
+  },
+  {
+    "name": "Al amin",
+    "email": "alamin@gmail.com",
+    "role": "user",
+    "password": "123456"
+  },
+  {
+    "name": "Foysal Ahmed",
+    "email": "foysal@gmail.com",
+    "role": "user",
+    "password": "123456"
+  },
+  {
+    "name": "Farhan Alvee",
+    "email": "alvee@gmail.com",
+    "role": "user",
+    "password": "123456"
+  },
+  {
+    "name": "Salman Khan",
+    "email": "salman@gmail.com",
+    "role": "user",
+    "password": "123456"
+  },
+  {
+    "name": "Prince Mahmud",
+    "email": "prince@gmail.com",
+    "role": "user",
+    "password": "123456"
+  },
+  {
+    "name": "Mahiya min",
+    "email": "mahiya@gmail.com",
+    "role": "user",
+    "password": "123456"
+  },
+  {
+    "name": "Abu Taher Saikat",
+    "email": "mdabutahersaikat@gmail.com",
+    "role": "user",
+    "password": "123456"
+  }
+]

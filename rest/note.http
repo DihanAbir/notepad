@@ -1,0 +1,32 @@
+### create a note
+POST http://localhost:5000/api/v1/note/ HTTP/1.1
+Content-Type: application/json
+
+{
+    "title" : "note nubmer 4d.",
+    "notebody" : "I lidaske this note pad wah",
+    "tags" : ["note pad", "by", "saikat"]
+}
+
+### get all notes 
+GET http://localhost:5000/api/v1/note
+
+### advanced get 
+GET http://localhost:5000/api/v1/note?select=title&page=1&limit=3
+### get a single note by id 
+GET http://localhost:5000/api/v1/note/603a779f2f27f7167456a4b9
+Content-Type: application/json
+
+
+### update a note 
+PUT http://localhost:5000/api/v1/note/60393b5bf500102c90c39e99
+Content-Type: application/json
+
+{
+    "title" : "this title is updated once again"
+}
+
+### delete a note
+DELETE  http://localhost:5000/api/v1/note/60393b5bf500102c90c39e99
+Content-Type: application/json
+
